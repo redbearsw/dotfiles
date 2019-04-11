@@ -1,5 +1,5 @@
 # show all directories in prompt
-set -x fish_prompt_pwd_dir_length 0
+set -x fish_prompt_pwd_dir_length 3
 
 function fish_prompt
   # save exit status so it's not clobbered by successful commands below
